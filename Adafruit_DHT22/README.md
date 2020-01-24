@@ -1,1 +1,1 @@
-The DHT22 sensor that returns the humidity and temperature.
+DHT22 sensor that records humidity and temperature.
