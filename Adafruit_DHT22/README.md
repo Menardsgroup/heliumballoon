@@ -8,5 +8,5 @@
 
 - Diagram of connecting DHT22 to RaspberryPi: 
 
-https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/wiring
+  https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/wiring
 
