@@ -8,7 +8,7 @@
     https://www.u-blox.com/en/product/u-center
 5. Connect the computer to the same wifi network as the Raspberry Pi, then follow instruction guide for u-center setup,
 again on ozzmaker.com
-6. Make use of data logger, setup guide again on ozzmaker.com
+6. Make use of data logger, setup guide again on ozzmaker.com. Store data with NMEA files, and upload to https://www.gpsvisualizer.com/
 
 ### BerryIMU Setup Guide with Raspberry Pi
 1. Go to http://ozzmaker.com/berryimu-quick-start-guide/ and read all sections
