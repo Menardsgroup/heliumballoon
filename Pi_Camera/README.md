@@ -11,4 +11,4 @@ Note:
         
 Update:
 
-We changed it to python3.
+We changed it to the python3 script.
