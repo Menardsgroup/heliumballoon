@@ -11,4 +11,4 @@ Note:
         
 Update:
 
-We changed it to the python3 script.
+We changed it to the python3 script. Sleep(time_interval) needs to be modified before the launch.
