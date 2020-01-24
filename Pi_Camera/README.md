@@ -8,3 +8,7 @@ Note:
       - Enter "crontab -e" on terminal
       - Add this line at the end of crontab: "@reboot /bin/sh /home/pi/fin_code/launch_script.sh"
         and make sure to change the path
+        
+Update:
+
+We changed it to python3.
