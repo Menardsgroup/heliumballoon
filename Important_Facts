@@ -4,7 +4,7 @@
   3).Check: sudo raspi-config - disable UART on console and enable UART on serial port (there are two parts to this)
   
   
-2.Cannon DSLR CHDK software:
+2.Canon DSLR CHDK software:
   https://chdk.fandom.com/wiki/CHDK_Scripting_Cross_Reference_Page
   https://chdk.fandom.com/wiki/Scripts
 
